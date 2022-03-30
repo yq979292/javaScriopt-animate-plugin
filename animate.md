@@ -2,6 +2,8 @@
 
 ## 下载安装
 
+[githhub地址](https://github.com/yq979292/javaScriopt-animate-plugin/blob/main/animate.js)
+
 ## 快速度上手
 
 ~~~js
